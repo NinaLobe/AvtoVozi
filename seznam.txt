@@ -1,0 +1,19 @@
+Seznam vozil: 
+Id: 0
+Znamka: Kia
+Model: Piccanto
+Prevozenih km: 130000km
+Naslednji servis: 5.5.2018
+
+Id: 1
+Znamka: WV
+Model: Turan
+Prevozenih km: 220000km
+Naslednji servis: 10.5.2020
+
+Id: 2
+Znamka: kia
+Model: pikec
+Prevozenih km: 2345
+Naslednji servis: 12. 12. 2000
+
